@@ -17,3 +17,9 @@ The UI design was inspired by the then newly launched Google Chrome. All the
 	horizontal bar running the length of the screen.
 
 This design leaves a huge canvas to draw & experiment.
+
+
+Authors
+======
+Veeresh Beeram   <veereshbeeram@gmail.com>
+Karthik V Bellur <karthikbellur@gmail.com>
